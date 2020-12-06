@@ -147,3 +147,5 @@ https://github.com/TheWover/donut
 https://github.com/Mr-Un1k0d3r/RedTeamCSharpScripts
 
 https://github.com/obscuritylabs/HastySeries
+
+https://ax1al.com/projects/r4pt0r/index.html (MALDOC LIBRARY)
