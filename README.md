@@ -21,6 +21,8 @@ https://blog.xpnsec.com/the-net-export-portal/
 
 https://blog.xpnsec.com/debugging-into-net/
 
+https://itm4n.github.io/dotnet-sdk-eop/
+
 https://blog.xpnsec.com/hiding-your-dotnet-complus-etwenabled/
 
 https://blog.xpnsec.com/hiding-your-dotnet-etw/
