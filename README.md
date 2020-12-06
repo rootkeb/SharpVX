@@ -112,3 +112,15 @@ https://securelist.com/oilrigs-poison-frog/95490/
 https://securelist.com/oilrigs-poison-frog/95490/
 
 https://securelist.com/muddywaters-arsenal/90659/
+
+Papers:
+-------
+
+https://www.blackhat.com/docs/us-15/materials/us-15-Graeber-Abusing-Windows-Management-Instrumentation-WMI-To-Build-A-Persistent%20Asynchronous-And-Fileless-Backdoor-wp.pdf
+
+Talks:
+-------
+
+https://www.youtube.com/watch?v=aBQ1vEjK6v4
+
+https://www.youtube.com/watch?v=0SjMgnGwpq8
