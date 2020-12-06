@@ -1,5 +1,5 @@
 # SharpVX
-Windows VX in C# and PowerShell u will find Samples, Papers, Aritcles, Sourcecodes. 
+Windows VX in C#, PowerShell and VBA u will find Samples, Papers, Aritcles, Sourcecodes. 
 
 Resources:
 ===========
@@ -75,6 +75,16 @@ https://congnghe.club/red-teaming-with-covenant-and-donut-b80bb156
 
 https://res-4.cloudinary.com/eventpower/image/upload/v1/19ncs/presentation_files/sao3ktg3tjrhairwd7hb.pptx.pdf
 
+https://www.trustedsec.com/blog/intro-to-macros-and-vba-for-script-kiddies/
+
+https://www.trustedsec.com/blog/the-vba-language-for-script-kiddies/
+
+https://www.trustedsec.com/blog/malicious-macros-for-script-kiddies/
+
+https://www.trustedsec.com/blog/developing-with-vba-for-script-kiddies/
+
+
+
 Courses:
 --------
 
@@ -91,3 +101,16 @@ https://www.fireeye.com/blog/threat-research/2020/05/analyzing-dark-crystal-rat-
 
 https://www.cybereason.com/blog/.net-malware-dropper
 
+https://securelist.com/the-rise-of-net-and-powershell-malware/72417/
+
+https://securelist.com/what-did-deathstalker-hide-between-two-ferns/99616/
+
+https://securelist.com/turla-renews-its-arsenal-with-topinambour/91687/
+
+https://securelist.com/twas-the-night-before/91599/
+
+https://securelist.com/oilrigs-poison-frog/95490/
+
+https://securelist.com/oilrigs-poison-frog/95490/
+
+https://securelist.com/muddywaters-arsenal/90659/
