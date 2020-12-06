@@ -39,8 +39,6 @@ https://www.mike-gualtieri.com/posts/red-team-tradecraft-loading-encrypted-c-sha
 
 https://www.slideshare.net/mvelazco/defcon-27
 
-https://holdmybeersecurity.com/2016/09/11/c-to-windows-meterpreter-in-10mins/
-
 https://github.com/mvelazc0/defcon27_csharp_workshop
 
 https://haxtivitiez.wordpress.com/2019/09/25/writing-backdoor-payloads-with-c-part-2-custom-meterpreter-stager/
