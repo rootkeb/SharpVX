@@ -119,6 +119,8 @@ https://hatching.io/blog/powershell-analysis/
 
 https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/tracking-detecting-and-thwarting-powershell-based-malware-and-attacks
 
+https://www.welivesecurity.com/2019/05/29/turla-powershell-usage/
+
 Papers:
 -------
 
