@@ -47,6 +47,8 @@ https://haxtivitiez.wordpress.com/2019/09/29/writing-backdoor-payloads-with-c-pa
 
 https://haxtivitiez.wordpress.com/2019/10/02/writing-backdoor-payloads-with-c-part-4-shellcode-obfuscation/
 
+https://posts.specterops.io/covenant-developing-custom-c2-communication-protocols-895587e7f325
+
 https://xss.is/threads/42772/
 
 https://xss.is/threads/27618/
