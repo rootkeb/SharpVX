@@ -39,6 +39,8 @@ https://guidedhacking.com/threads/c-game-hacking-guide-start-here.12701/ (For Ga
 
 https://www.mike-gualtieri.com/posts/red-team-tradecraft-loading-encrypted-c-sharp-assemblies-in-memory
 
+https://cyber.wtf/2016/04/18/presenting-penet-a-native-net-library-for-analyzing-pe-headers-with-powershell/
+
 https://www.slideshare.net/mvelazco/defcon-27
 
 https://github.com/mvelazc0/defcon27_csharp_workshop
