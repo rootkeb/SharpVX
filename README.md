@@ -113,10 +113,18 @@ https://securelist.com/oilrigs-poison-frog/95490/
 
 https://securelist.com/muddywaters-arsenal/90659/
 
+https://redalert.nshc.net/2019/03/07/sectord02-powershell-backdoor-analysis/
+
+https://hatching.io/blog/powershell-analysis/
+
+https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/tracking-detecting-and-thwarting-powershell-based-malware-and-attacks
+
 Papers:
 -------
 
 https://www.blackhat.com/docs/us-15/materials/us-15-Graeber-Abusing-Windows-Management-Instrumentation-WMI-To-Build-A-Persistent%20Asynchronous-And-Fileless-Backdoor-wp.pdf
+
+https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07202147/Pontiroli_Martinez-VB2015-2.pdf
 
 Talks:
 -------
