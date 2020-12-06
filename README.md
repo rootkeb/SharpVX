@@ -111,8 +111,6 @@ https://securelist.com/twas-the-night-before/91599/
 
 https://securelist.com/oilrigs-poison-frog/95490/
 
-https://securelist.com/oilrigs-poison-frog/95490/
-
 https://securelist.com/muddywaters-arsenal/90659/
 
 https://redalert.nshc.net/2019/03/07/sectord02-powershell-backdoor-analysis/
