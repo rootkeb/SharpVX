@@ -1,5 +1,5 @@
 # SharpVX
-Windows VX in C#, PowerShell and VBA u will find Samples, Papers, Aritcles, Sourcecodes. 
+Windows VX in C#, PowerShell and VBA. Here u find Samples, Papers, Articles, Source codes. 
 
 Resources:
 ===========
