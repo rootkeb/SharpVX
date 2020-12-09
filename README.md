@@ -9,6 +9,8 @@ Articles:
 
 https://thewover.github.io/Introducing-Donut/
 
+https://posts.specterops.io/offensive-p-invoke-leveraging-the-win32-api-from-managed-code-7eef4fdef16d
+
 https://thewover.github.io/Apple-Fritter/
 
 https://thewover.github.io/Bear-Claw/
